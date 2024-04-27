@@ -1,16 +1,11 @@
 # 电子灵堂
 
-[在线演示 Demo](https://asoulfucker.github.io/Lingtang_OnInternet/)
+[采用Lingtang_OnInternet](https://github.com/ASOULFucker/Lingtang_OnInternet/)
 
-#### 优点
- - 样式简单，一目了然。
- - 可随意新添内容，搭配性好。
- - 配置简单。
+# 音容犹在
 
-#### 使用
+[舞萌DX2023 全民练习生KohaD带来先行情报](https://www.bilibili.com/video/BV1Sh411j7zk/?spm_id_from=333.999.0.0&vd_source=04b2a96bb7ef5bd5ac039dc4430a164b)
 
-叉下来本项目，修改 index.html 头部中的配置。
+#### Maimai DX
 
-修改 name，introduction，picture 等参数。
-
-完成。
+请您游玩正版游戏
